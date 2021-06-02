@@ -1,1 +1,30 @@
 # huhu
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nyenye</title>
+</head>
+<body>
+    <script>
+        alert('riswan cuma mau nanya boleh kan');
+        var nama = prompt('kenalan dulu geh? ;"D');
+        if (nama) {
+        alert('halo '+nama+' :) ');
+        } else {
+        alert('eh');
+        }
+        alert('riswan mau bilang sesuatu nih ');
+        switch(confirm('riswan ganteng kan ')){
+        case true:
+        alert('hwaaaa makasihhhh monyet');
+        break;
+        case false:
+        alert('ganteng lah masa engga');
+        alert('udah lah gajadi');
+        break;
+        };
+        </script>
+</body>
+</html>
